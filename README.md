@@ -25,3 +25,23 @@ We have created a discussion board under Projects folder on e-learning. Create t
 There is a high possibility that your classmate has also faced the same problem and knows the solution. So this is an effort to encourage collaborative learning, reducing mails for frequently asked queries and also making all the information available to everyone.
 Please check existing threads for your query before creating a new one. It goes without saying that do not share your code or complete solutions there.
 We will also answer queries there. We will not be answering any project related queries through the mail.
+
+
+Buzz Prediction on Twitter
+Project Description:
+Use same datasets as Project 2.
+Run all the models only on 10% data. Use code given in Project 2 for sampling.
+Preprocess data: Explore data and apply data scaling.
+Regression Task:
+Apply any two models with bagging and any two models with pasting.
+Apply any two models with adaboost boosting
+Apply one model with gradient boosting
+Apply PCA on data and then apply all the models in project 2 again on data you get from PCA. Compare your results with results in project 2. You don't need to apply all the models twice. Just copy the result table from project 2, prepare similar table for all the models after PCA and compare both tables. Does PCA help in getting better results?
+Apply deep learning models covered in class
+Classification Task:
+Apply four voting classifiers - two with hard voting and two with soft voting
+Apply any two models with bagging and any two models with pasting.
+Apply any two models with adaboost boosting
+Apply one model with gradient boosting
+Apply PCA on data and then apply all the models in project 2 again on data you get from PCA. Compare your results with results in project 2. You don't need to apply all the models twice. Just copy the result table from project 2, prepare similar table for all the models after PCA and compare both tables. Does PCA help in getting better results?
+Apply deep learning models covered in class
