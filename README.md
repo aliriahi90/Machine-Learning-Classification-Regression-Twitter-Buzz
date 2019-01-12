@@ -16,16 +16,6 @@ Classification Task:
 Decide about a good evaluation strategy and justify your choice.
 Find best parameters for the following classification models: KNN classification, Logistic Regression, Linear Support Vector Machine, Kernelized Support Vector Machine, Decision Tree. 
 Which model gives the best results?
-Deliverables:
-Submit IPython notebook. Use markdown to provide inline comments for this project.
-Rename notebook with your group number and submit only one notebook. Before submitting, make sure everything runs as expected. To check that, restart the kernel (in the menubar, select Kernel > Restart) and then run all cells (in the menubar, select Cell > Run All).
-Visualization encouraged.
-Questions regarding the project:
-We have created a discussion board under Projects folder on e-learning. Create threads over there and post your queries related to project there.
-There is a high possibility that your classmate has also faced the same problem and knows the solution. So this is an effort to encourage collaborative learning, reducing mails for frequently asked queries and also making all the information available to everyone.
-Please check existing threads for your query before creating a new one. It goes without saying that do not share your code or complete solutions there.
-We will also answer queries there. We will not be answering any project related queries through the mail.
-
 
 Buzz Prediction on Twitter
 Project Description:
